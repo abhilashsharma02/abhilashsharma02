@@ -18,4 +18,4 @@ I'm Abhilash a passionate web developer dedicated to crafting dynamic and respon
 #
 ### 📍Roadmap Stats:
 
-[![roadmap.sh](https://roadmap.sh/card/wide/664b76d6bc68b74d9bfdd88d?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/664b76d6bc68b74d9bfdd88d?variant=dark)](https://roadmap.sh)
